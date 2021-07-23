@@ -93,7 +93,6 @@
         background-color: #1A4341;
     }
 </style>
-<body>
     <div class="violao">
         <div class="content">
             <div class="first_ball">
@@ -110,4 +109,3 @@
             </div>
         </div>
     </div>
-</body>
